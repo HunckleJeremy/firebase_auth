@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "762392157548",
+    "firebase_url": "https://fir-login-example-30dd2.firebaseio.com",
+    "project_id": "fir-login-example-30dd2",
+    "storage_bucket": "fir-login-example-30dd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762392157548:android:08e33248b01b0c45b6e749",
+        "android_client_info": {
+          "package_name": "com.example.saira_000.firebase_login_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762392157548-gi7oe4cv3c6qbdoejcsu2g500tb68733.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiTiDChiDBYBMCTkElERdDgE4XisHwFms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762392157548-gi7oe4cv3c6qbdoejcsu2g500tb68733.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
